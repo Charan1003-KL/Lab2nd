@@ -1,1 +1,7 @@
-bow bow bow merge
+Git conflict resolution:
+<<<<<<< HEAD
+Dog says: bow bow bow
+=======
+Cat says: meow meow meow
+>>>>>>> feature-branch
+Let's merge them into a 'meow-bow' hybrid that refuses to listen to commands!

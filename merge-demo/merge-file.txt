@@ -1,2 +1,5 @@
-This folder and file are used to demonstrate Git Branch and Merge.
-Update: Added this line on the feature-folder-branch!
+Merge Conflict Checklist:
+1. Panic.
+2. Blame the developer who worked on the file last.
+3. Use `git merge --abort` and pretend nothing happened.
+4. If that fails, delete the repository and move to a remote island.

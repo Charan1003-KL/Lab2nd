@@ -1,1 +1,4 @@
-pull mewo
+How to successfully Git Pull:
+1. Pull the cat away from the laptop.
+2. Realize the cat has already force-pushed to main.
+3. Accept your new feline overlord.
